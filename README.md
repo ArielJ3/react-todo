@@ -36,7 +36,10 @@ This Application was Created with
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Setup / Installation: 💻
-
+### Prerequisites
+- npm
+  ```npm install -g npm```
+### Instalation
 1. Download / Clone the repo
 2. Use the command ```npm install``` to run the app
 3. Run the app with the command ```npm start```
@@ -70,6 +73,8 @@ The _**TodoList.js**_ handles the appending of the To-Do element to the To-Do ar
 - [ ] Ability to Sort Alphabetically
 
 ██████████████]99% Completion
+
+See the [open issues](https://github.com/ArielJ3/react-todo/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

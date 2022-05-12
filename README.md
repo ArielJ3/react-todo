@@ -1,3 +1,5 @@
+<div id="top"></div>
+
 # Simple React To-Do List ✅
 
 ## About the App:
@@ -22,18 +24,24 @@ Accessible at my Website: <a href="https://arielj.ca/todo" target="_blank">ariel
 
 <img src="/screenshots/edit.gif" width="750"/>
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Technologies Used: ⚙️
 This Application was Created with
-- React.JS
-- JavaScript
+- [React.js](https://reactjs.org/)
+- [JavaScript](https://www.javascript.com/)
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 - HTML
-- CSS
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Setup / Installation: 💻
 
 1. Download / Clone the repo
 2. Use the command ```npm install``` to run the app
 3. Run the app with the command ```npm start```
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Approach: 🚶
 
@@ -53,5 +61,23 @@ The _**TodoForm.js**_ handles the generation of a new To-Do item. It generates a
    
 The _**TodoList.js**_ handles the appending of the To-Do element to the To-Do array. Furthermore, it handles the update process and removal of a To-Do entry. It utilizes the index to find and determine which To-Do entry the user specifies to modify.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Status: 📶
-  ███████████████████ 100% Completed
+- [x] Ability to Delete Entries
+- [x] Ability to Modify Entries
+- [x] Animate Background
+- [ ] Ability to Sort Alphabetically
+
+██████████████]99% Completion
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- CONTACT -->
+## Contact
+
+Ariel Johannes - me@arielj.ca
+
+Project Link: [https://github.com/ArielJ3/react-todo](https://github.com/ArielJ3/react-todo)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
